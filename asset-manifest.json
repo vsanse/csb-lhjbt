@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vsanse.github.io/csb-lhjbt/static/css/main.9282dc05.chunk.css",
+    "main.js": "https://vsanse.github.io/csb-lhjbt/static/js/main.c92388ea.chunk.js",
+    "main.js.map": "https://vsanse.github.io/csb-lhjbt/static/js/main.c92388ea.chunk.js.map",
+    "runtime-main.js": "https://vsanse.github.io/csb-lhjbt/static/js/runtime-main.84c453ff.js",
+    "runtime-main.js.map": "https://vsanse.github.io/csb-lhjbt/static/js/runtime-main.84c453ff.js.map",
+    "static/js/2.f1a8207f.chunk.js": "https://vsanse.github.io/csb-lhjbt/static/js/2.f1a8207f.chunk.js",
+    "static/js/2.f1a8207f.chunk.js.map": "https://vsanse.github.io/csb-lhjbt/static/js/2.f1a8207f.chunk.js.map",
+    "index.html": "https://vsanse.github.io/csb-lhjbt/index.html",
+    "static/css/main.9282dc05.chunk.css.map": "https://vsanse.github.io/csb-lhjbt/static/css/main.9282dc05.chunk.css.map",
+    "static/js/2.f1a8207f.chunk.js.LICENSE.txt": "https://vsanse.github.io/csb-lhjbt/static/js/2.f1a8207f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84c453ff.js",
+    "static/js/2.f1a8207f.chunk.js",
+    "static/css/main.9282dc05.chunk.css",
+    "static/js/main.c92388ea.chunk.js"
+  ]
+}
